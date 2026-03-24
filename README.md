@@ -71,7 +71,7 @@ O projeto atualmente está organizado de forma direta em um único arquivo princ
 ### 1. Clonar o repositório
 
 ```bash
-git clone <URL>
+git clone https://github.com/RafaelHenriqu/CRUD-basico
 ```
 
 ### 2. Instalar dependências
